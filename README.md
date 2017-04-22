@@ -1,4 +1,4 @@
-vim
+My bash-vim-screen.setting
 ===
 
-vim setting
+
