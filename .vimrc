@@ -86,7 +86,9 @@ set shiftwidth=4
 set cinwords=if,else,while,do,for,switch,foreach
 set incsearch
 set hls
-highlight PmenuSel ctermfg=0 ctermbg=7 guibg=Grey
+highlight Visual term=reverse ctermbg=none cterm=reverse guibg=Gray
+highlight Pmenu ctermfg=7 ctermbg=8 guibg=Gray
+highlight PmenuSel ctermfg=0 ctermbg=2 guibg=Gray
 
 set lbr "linebreak
 set ai "autoindent
